@@ -1,0 +1,9 @@
+# StudentManagerSystem
+Python学生管理系统
+
+## 项目介绍
+基于Python实现的简易学生信息管理系统，可以完成学生信息新增、查询、修改、删除功能。
+
+## 运行方式
+```bash
+python main.py
